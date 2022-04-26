@@ -7,7 +7,7 @@
 <p align="center"><samp>I am a Pre-Final year student at University of Lucknow, currently doing my Bachelors in Computer Engineering.
   I am very much into Android Development and love exploring stuff.</samp><br></p>
   
- <h6 align="center"><i>*I think i'm kinda CREATIVE*</i></h6>
+ <h5 align="center"><i>*I think i'm kinda CREATIVE*</i></h5>
  <p align="center"><a href="https://github.com/Vartika2187/Vartika2187/blob/main/gif.gif"><img src="gif.gif"/></a></p>
 
 <h2 align="center">Languages and Tools</h2>
