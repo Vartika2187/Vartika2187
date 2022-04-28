@@ -5,7 +5,7 @@
 
 <h2 align="center"> About Me</h2>
 <p align="center"><samp>I am a Pre-Final year student at University of Lucknow, currently doing my Bachelors in Computer Engineering.
-  I am very much into Android Development and love exploring stuff.</samp><br></p>
+  I am very much into Development and love exploring stuff. Basically, anything realted to computers draws up my attention.</samp><br></p>
   
  <h5 align="center"><i>*I think i'm kinda CREATIVE*</i></h5>
  <p align="center"><a href="https://github.com/Vartika2187/Vartika2187/blob/main/gif.gif"><img src="gif.gif"/></a></p>
