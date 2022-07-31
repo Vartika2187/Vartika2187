@@ -4,7 +4,7 @@
 <img src="https://github.com/Vartika2187/Vartika2187/blob/main/da19ceb7b0c06a5ddefc6382d4fc04e3.jpg" width="100%" height="300px">
 
 <h2 align="center"> About Me</h2>
-<p align="center"><samp>I am a Pre-Final year student at University of Lucknow, currently doing my Bachelors in Computer Engineering.
+<p align="center"><samp>I am a Final year student at University of Lucknow, currently doing my Bachelors in Computer Engineering.
   I am very much into Development and love exploring stuff. Basically, anything realted to computers draws up my attention.</samp><br></p>
   
  <h5 align="center"><i>*I think i'm kinda CREATIVE*</i></h5>
