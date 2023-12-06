@@ -4,7 +4,7 @@
 <img src="https://github.com/Vartika2187/Vartika2187/blob/main/da19ceb7b0c06a5ddefc6382d4fc04e3.jpg" width="100%" height="300px">
 
 <h2 align="center"> About Me</h2>
-<p align="center"><samp>Hey, I am Software Engineer by choice and I'm all about diving deep into the exciting world of backend development. 
+<p align="center"><samp>Hey, I am a Software Engineer by choice and I'm all about diving deep into the exciting world of backend development. 
   I love exploring stuff....basically, anything realted to computers draws up my attention.</samp><br></p>
   
  <h5 align="center"><i>*I think i'm kinda CREATIVE*</i></h5>
